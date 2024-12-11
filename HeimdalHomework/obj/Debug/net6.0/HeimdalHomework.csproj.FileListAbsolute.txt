@@ -1,0 +1,14 @@
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\bin\Debug\net6.0\HeimdalHomework.exe
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\bin\Debug\net6.0\HeimdalHomework.deps.json
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\bin\Debug\net6.0\HeimdalHomework.runtimeconfig.json
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\bin\Debug\net6.0\HeimdalHomework.dll
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\bin\Debug\net6.0\HeimdalHomework.pdb
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\HeimdalHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\HeimdalHomework.AssemblyInfoInputs.cache
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\HeimdalHomework.AssemblyInfo.cs
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\HeimdalHomework.csproj.CoreCompileInputs.cache
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\HeimdalHomework.dll
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\refint\HeimdalHomework.dll
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\HeimdalHomework.pdb
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\HeimdalHomework.genruntimeconfig.cache
+C:\Users\missv\source\repos\HeimdalHomework\HeimdalHomework\obj\Debug\net6.0\ref\HeimdalHomework.dll
