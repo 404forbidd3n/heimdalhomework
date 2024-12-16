@@ -1,3 +1,9 @@
+There are alot of methods we can do this. I think this is a list of the best we can use, or the most commonly used. 
+(More extreme cases could be like sending emails or html templates trough smtp servers, or using redis as a bridge between the consoles, or even using RAW tpc/upd comunication).
+
+I picked named pipes since we are talking about comunication on the same machine, we dont need cache and we dont need data persistence, this is an implementation of a simple messaging.
+Named pipes should be simple enough to create and maintain between consoles.
+
 # Communication Methods Table
 
 | **Method**              | **Type**            | **Suitable For**                                                                              |
