@@ -1,0 +1,15 @@
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\bin\Debug\net9.0\MultiClientConsole.exe
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\bin\Debug\net9.0\MultiClientConsole.deps.json
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\bin\Debug\net9.0\MultiClientConsole.runtimeconfig.json
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\bin\Debug\net9.0\MultiClientConsole.dll
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\bin\Debug\net9.0\MultiClientConsole.pdb
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.AssemblyInfoInputs.cache
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.AssemblyInfo.cs
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.sourcelink.json
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.dll
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\refint\MultiClientConsole.dll
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.pdb
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\MultiClientConsole.genruntimeconfig.cache
+C:\Users\missv\source\repos\heimdalhomework_git\MultiClientConsole\obj\Debug\net9.0\ref\MultiClientConsole.dll

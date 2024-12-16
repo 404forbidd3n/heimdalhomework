@@ -1,0 +1,15 @@
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\bin\Debug\net9.0\ConsoleOne.exe
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\bin\Debug\net9.0\ConsoleOne.deps.json
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\bin\Debug\net9.0\ConsoleOne.runtimeconfig.json
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\bin\Debug\net9.0\ConsoleOne.dll
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\bin\Debug\net9.0\ConsoleOne.pdb
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.AssemblyInfoInputs.cache
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.AssemblyInfo.cs
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.csproj.CoreCompileInputs.cache
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.sourcelink.json
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.dll
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\refint\ConsoleOne.dll
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.pdb
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ConsoleOne.genruntimeconfig.cache
+C:\Users\missv\source\repos\heimdalhomework_git\ConsoleOne\obj\Debug\net9.0\ref\ConsoleOne.dll

@@ -1,0 +1,15 @@
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\bin\Debug\net9.0\MultiConsoleTwo.exe
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\bin\Debug\net9.0\MultiConsoleTwo.deps.json
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\bin\Debug\net9.0\MultiConsoleTwo.runtimeconfig.json
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\bin\Debug\net9.0\MultiConsoleTwo.dll
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\bin\Debug\net9.0\MultiConsoleTwo.pdb
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.AssemblyInfoInputs.cache
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.AssemblyInfo.cs
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.csproj.CoreCompileInputs.cache
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.sourcelink.json
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.dll
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\refint\MultiConsoleTwo.dll
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.pdb
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\MultiConsoleTwo.genruntimeconfig.cache
+C:\Users\missv\source\repos\heimdalhomework_git\MultiConsoleTwo\obj\Debug\net9.0\ref\MultiConsoleTwo.dll

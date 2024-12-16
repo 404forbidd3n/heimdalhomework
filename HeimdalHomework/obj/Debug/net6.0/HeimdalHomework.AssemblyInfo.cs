@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeimdalHomework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c8b555210e912833e0ad9659a8fdcfbb9ada0a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0a1552f4d3ca5adea52bc8e88dce51bdbba74c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeimdalHomework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeimdalHomework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
